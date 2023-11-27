@@ -71,7 +71,7 @@
 		&kp C_BRIGHTNESS_MAXIMUM 
 		&kp UP 
 		&kp K_SCROLL_DOWN 
-		&kp undefined 
+		&kp K_SCROLL_UP 
 		&kp SLASH 
 		&trans 
 		&kp K_PLAY_PAUSE 
@@ -79,7 +79,7 @@
 		&kp K_NEXT 
 		&kp F11 
 		&kp F12 
-		&kp undefined 
+		&kp UP 
 		&kp LEFT 
 		&kp DOWN 
 		&kp RIGHT 
